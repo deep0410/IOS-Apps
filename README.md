@@ -1,7 +1,8 @@
 # IOS-Sample-Apps
 <br/><br/>
 ## -- UDPATE --
-Latest App : Quizzler with the most features updated.
+Latest App : Quizzler with the most features updated. <br/>
+<hr>
 
 1) The apps that were created while learning IOS app development through the help of Udemy course.<br/><br/>
 2) These Demo apps were created by using this course as a guideline : https://www.udemy.com/ios-11-app-development-bootcamp/.<br/><br/>
