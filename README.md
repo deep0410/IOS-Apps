@@ -1,6 +1,6 @@
 # IOS-Sample-Apps
 <br/>
-## -- UDPATE --
+<h3>  UDPATE </h3><br/>
 Latest App : Quizzler with the most features updated. <br/>
 <hr>
 
