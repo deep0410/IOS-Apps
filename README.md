@@ -1,6 +1,6 @@
 # IOS-Sample-Apps
 <br/><br/>
-##-- UDPATE --
+## -- UDPATE --
 Latest App : Quizzler with the most features updated.
 
 1) The apps that were created while learning IOS app development through the help of Udemy course.<br/><br/>
